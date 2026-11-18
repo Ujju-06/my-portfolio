@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#080B14"/>
+  <circle cx="980" cy="90" r="180" fill="#3D8BFF" fill-opacity="0.12"/>
+  <circle cx="180" cy="520" r="160" fill="#8B5CFF" fill-opacity="0.12"/>
+  <text x="80" y="250" font-family="Arial, sans-serif" font-size="28" fill="#94A3B8" letter-spacing="6">AI/ML ENGINEER</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#F8FAFC">Ujjwal Kumar Pandey</text>
+  <text x="80" y="410" font-family="Arial, sans-serif" font-size="28" fill="#94A3B8">LLM applications · RAG · ML workflows · AI evaluation</text>
+</svg>
