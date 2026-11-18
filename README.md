@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ujjwal Kumar Pandey — Portfolio
 
 Production-ready personal site for **Ujjwal Kumar Pandey**, AI/ML Engineer. Built with React, Vite, Tailwind CSS, Framer Motion, Lucide React, and EmailJS.
@@ -68,3 +69,7 @@ The Download Resume button serves `public/resume.pdf` (copied from `UJJWAL_KUMAR
 3. Add the same EmailJS env vars.
 
 SPA note: this site is a single page with hash/section scrolling, so no extra redirects are required.
+=======
+# my-portfolio
+Personal portfolio showcasing my AI/ML projects, technical skills, experience, and development journey.
+>>>>>>> d77284ce2e1f0f3ab1d9712c306f27f6757cc13d
